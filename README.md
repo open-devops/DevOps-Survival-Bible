@@ -1,8 +1,6 @@
 # DevOps Survival Bible
 Comprehensive technical hand book for surviving in the DevOps world.
 
-<iframe src="https://xebialabs.com/periodic-table-of-devops-tools/embed/" style="border:0px #FFFFFF none;" name="Periodic Table of DevOps" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="620px" width="1170px"></iframe>
-
 ## DevOps Pipeline Overview
 ### DevOps Pipeline Reference Architecture
 ### Overview - Requirement Management
